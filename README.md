@@ -2,7 +2,7 @@
 ## About script
 #### RebuyCalc - automation script for M1. this script will help you calculate the price for minimum payback when reselling items.
 ## System Requirements
-### OS: Windows 7/8/10/11(You may need to install python 3.*.*)
+### OS: Windows 7/8/10/11
 ### Internet connection required
 ## How to use:
 ### 1. Download executable from "Releases"
